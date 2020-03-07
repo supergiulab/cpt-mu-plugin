@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-03-06T17:52:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.1.0\n"
+"X-Domain: site_theme_cpt\n"
+
+#: site-custom-post-types.php:36
+msgid "products"
+msgstr ""
+
+#: site-custom-post-types.php:37
+msgid "Product"
+msgstr ""
+
+#: site-custom-post-types.php:38
+msgid "Products"
+msgstr ""
+
+#: site-custom-post-types.php:39
+msgid "Item"
+msgstr ""
+
+#: site-custom-post-types.php:40
+msgid "Items"
+msgstr ""
+
+#: site-custom-post-types.php:46
+msgid "reviews"
+msgstr ""
+
+#: site-custom-post-types.php:47
+msgid "Review"
+msgstr ""
+
+#: site-custom-post-types.php:48
+msgid "Reviews"
+msgstr ""
+
+#: site-custom-post-types.php:49
+msgid "Thing"
+msgstr ""
+
+#: site-custom-post-types.php:50
+msgid "Things"
+msgstr ""
+
+#: site-custom-post-types.php:72
+msgctxt "Post Type General Name"
+msgid "%s"
+msgstr ""
+
+#: site-custom-post-types.php:73
+msgctxt "Post Type Singular Name"
+msgid "%s"
+msgstr ""
+
+#: site-custom-post-types.php:74
+#: site-custom-post-types.php:75
+msgid "%s"
+msgstr ""
+
+#: site-custom-post-types.php:76
+msgid "Parent element:"
+msgstr ""
+
+#: site-custom-post-types.php:77
+msgid "All %s"
+msgstr ""
+
+#: site-custom-post-types.php:78
+msgid "Add New %s"
+msgstr ""
+
+#: site-custom-post-types.php:79
+msgid "Add %s"
+msgstr ""
+
+#: site-custom-post-types.php:80
+msgid "New %s"
+msgstr ""
+
+#: site-custom-post-types.php:81
+msgid "Modify %s"
+msgstr ""
+
+#: site-custom-post-types.php:82
+msgid "Update %s"
+msgstr ""
+
+#: site-custom-post-types.php:83
+msgid "View %s"
+msgstr ""
+
+#: site-custom-post-types.php:84
+msgid "Search %s"
+msgstr ""
+
+#: site-custom-post-types.php:85
+msgid "Not found"
+msgstr ""
+
+#: site-custom-post-types.php:86
+msgid "Not found in Trash"
+msgstr ""
+
+#: site-custom-post-types.php:96
+msgid "Custom Post Type per Site Name"
+msgstr ""
